@@ -1,0 +1,24 @@
+.score_box{ 
+    background-color: #141E30;
+    flex-basis: 35%;
+    border-radius: 15px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.score_card {
+    padding: 1rem;
+    border: 5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+}
+
+.score {
+    font-size: 50px;
+}
